@@ -1,0 +1,1 @@
+console.log("Welcome To Array Programs Using JS");
